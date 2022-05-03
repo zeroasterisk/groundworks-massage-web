@@ -1,6 +1,7 @@
 ---
-title: AWE.SOME Heading
+title: About Us
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+At  Groundworks Massage Therapy, LLC it is our mission to build a healthy foundation for each of our clients through massage, movement and daily practice.
+

@@ -29,10 +29,37 @@ module.exports = {
       yellow: colors.amber,
       green: colors.emerald,
       blue: colors.blue,
-      indigo: colors.indigo,
+      //pink: colors.pink,
+
+
+      indego: colors.indego,
       purple: colors.violet,
-      pink: colors.pink,
+      pink: colors.fuchsia,
+
+      /*
+      Fonts:
+      Roboto
+
+      Colors:
+      #7B3911
+      #DC661F
+      #EBA327
+      #1D7151
+      #96DF74
+      #F6F6E9
+      */
+
+      xred: '#7B3911',
+      xorange: '#DC661F',
+      xyellow: '#EBA327',
+      xdarkgreen: '#1D7151',
+      xlightgreen: '#96DF74',
+      xwhite: '#F6F6E9',
+
+
+
     },
+
     spacing: {
       px: '1px',
       0: '0px',
