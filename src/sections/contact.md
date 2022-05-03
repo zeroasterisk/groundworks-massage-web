@@ -6,7 +6,7 @@ email: info@groundworksmassage.com
 twitter: https://twitter.com/groundworks-massage
 facebook: https://facebook.com/groundworks-massage
 instagram: https://instagram.com/groundworks-massage
-scheduleTitle: Schedule an Appointment
+scheduleTitle: Book a Massage
 scheduleText: Ready to get started?
 ---
 
