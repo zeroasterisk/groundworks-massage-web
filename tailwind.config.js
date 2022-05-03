@@ -55,6 +55,7 @@ module.exports = {
       xdarkgreen: '#1D7151',
       xlightgreen: '#96DF74',
       xwhite: '#F6F6E9',
+      xgray: '#a1a1aa',
 
 
 
@@ -1000,5 +1001,6 @@ module.exports = {
     wordBreak: ['responsive'],
     zIndex: ['responsive', 'focus-within', 'focus'],
   },
-  plugins: [],
+  plugins: [
+  ]
 }

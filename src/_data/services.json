@@ -1,32 +1,50 @@
 [
   {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "60 Minute Therapeutic Massage",
+    "icon": "theraputic-massage-square-icon.jpg",
+    "content": "60 Minute Therapeutic Massage",
+    "price": "$75"
   },
   {
-    "title": "AWE.SOME Feature Two",
-    "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "75 Minute Prenatal Massage",
+    "icon": "prenatal-massage-square-icon.jpg",
+    "content": "75 Minute Prenatal Massage",
+    "price": "$90"
   },
   {
-    "title": "AWE.SOME Feature Three",
-    "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "75 Minute Therapeutic Massage",
+    "icon": "theraputic-massage-square-icon.jpg",
+    "content": "75 Minute Therapeutic Massage",
+    "price": "$100"
   },
   {
-    "title": "AWE.SOME Feature Four",
-    "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "90 Minute Therapeutic Massage",
+    "icon": "theraputic-massage-square-icon.jpg",
+    "content": "90 Minute Therapeutic Massage",
+    "price": "$130"
   },
   {
-    "title": "AWE.SOME Feature Five",
-    "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "5 pack of 75 Minute Massage",
+    "icon": "theraputic-massage-square-icon.jpg",
+    "content": "5 pack of 75 Minute Therapeutic Massage",
+    "price": "$450"
   },
   {
-    "title": "AWE.SOME Feature Six",
-    "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "5 pack of 90 Minute Therapeutic Massage",
+    "icon": "theraputic-massage-square-icon.jpg",
+    "content": "5 pack of 90 Minute Therapeutic Massage",
+    "price": "$575"
+  },
+  {
+    "title": "Hot Rocks Add On",
+    "icon": "hot-rocks-square-icon.jpg",
+    "content": "Hot Rocks for deeper relaxation",
+    "price": "$20"
+  },
+  {
+    "title": "30 Minute Stretching Session",
+    "icon": "stretching-square-icon.jpg",
+    "content": "30 Minute Stretching Session",
+    "price": "$40"
   }
 ]
