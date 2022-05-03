@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A simple landing page built with 11ty and Tailwind CSS",
   "scripts": {
+    "build_gh": "env NODE_ENV=production npx eleventy --pathprefix 'groundworks-massage-web'",
     "serve": "eleventy --serve",
     "deploy": "eleventy"
   },
